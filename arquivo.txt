@@ -1,5 +1,2 @@
-linha 1
-teste de arquivo.
-testar status
-testar o pull
-ultima linha
+<html>
+</html>
